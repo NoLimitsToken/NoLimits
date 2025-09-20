@@ -1,6 +1,6 @@
 # No Limits Token ♿️
 
-**No Limits (⠝⠕ ⠇⠊⠍⠊⠞⠎)** is a pioneering **accessibility-first, charity-driven ERC20 token**.  
+**No Limits ⠝⠕ ⠇⠊⠍⠊⠞⠎ is a pioneering **accessibility-first, charity-driven ERC20 token**.  
 Our mission is to make crypto trading inclusive for **visually impaired users** while supporting communities through a **dedicated charity wallet**.  
 
 ---
@@ -16,7 +16,7 @@ Our mission is to make crypto trading inclusive for **visually impaired users** 
 - **Name:** No Limits  
 - **Symbol:** ⠝⠕ ⠇⠊⠍⠊⠞⠎  
 - **Decimals:** 9  
-- **Total Supply:** 1,000,000,000 NLT  
+- **Total Supply:** 1,000,000,000
 - **Charity Wallet:** `0xc011c72765F74F549F6FCC044d1C10cD162Fe292`  
 
 ---
@@ -55,7 +55,7 @@ Our mission is to make crypto trading inclusive for **visually impaired users** 
 ## 📢 Community & Links
 - Website: [https://nolimitstoken.site](https://nolimitstoken.site)  
 - Telegram: [https://t.me/nolimitsERC](https://t.me/nolimitsERC)  
-- Twitter/X: Coming soon  
+- Twitter/X: [https://x.com/nolimitserc](https://x.com/nolimitserc)
 
 ---
 
